@@ -1,4 +1,4 @@
-<h2>Hi, I'm Shiyzu! <img src="https://raw.githubusercontent.com/vixrant/vixrant/master/cat.gif" height="30" /></h2>
+<h2>Hi, I'm Shiyzu! <img src="https://raw.githubusercontent.com/vixrant/vixrant/master/cat.gif" height="40" /></h2>
 
 <img max-width="800" src="https://github.com/shiyzu/shiyzu/blob/master/assets/gochumoon.jpg"/>
 
@@ -19,7 +19,7 @@ Welcome to my Github profile :rocket:
 
 ![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shiyzu)
 
-![Top Langs](https://bad-apple-github-readme-stats.vercel.app/api/top-langs/?show_bg=1&username=shiyzu&layout=compact)
+![Top Langs](https://bad-apple-github-readme-stats.vercel.app/api/top-langs?show_bg=1&username=shiyzu&layout=compact)
 <br>
 <p align="center">
   <strong><a href="#">Facebook</a></strong> |
