@@ -30,4 +30,4 @@ Welcome to my Github profile :rocket:
   <strong><a href="#">LinkedIn</a></strong> 
 </p>
 
-<p align="center">❤  I have a dream to become Backend and Mobile developer in Japan.</p>
+<p align="center">❤  I have a dream to become Backend developer in Japan.</p>
