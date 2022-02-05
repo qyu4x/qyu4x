@@ -1,4 +1,4 @@
-<h2>Hi, I'm Shiyzu! <img src="https://i.pinimg.com/originals/79/05/67/790567beeb3adadcddfde00f3c6223ad.gif" height="40" /></h2>
+<h2>Hi, I'm Shiyzu! <img src="https://i.pinimg.com/originals/79/05/67/790567beeb3adadcddfde00f3c6223ad.gif" height="60" /></h2>
 
 <img max-width="800" src="https://github.com/shiyzu/shiyzu/blob/master/assets/gochumoon.jpg"/>
 
