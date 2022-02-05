@@ -20,6 +20,7 @@ Welcome to my Github profile :rocket:
 ![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shiyzu)
 
 ![Top Langs](https://bad-apple-github-readme-stats.vercel.app/api/top-langs?show_bg=1&username=shiyzu&layout=compact)
+
 <br>
 <p align="center">
   <strong><a href="#">Facebook</a></strong> |
