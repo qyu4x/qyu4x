@@ -19,7 +19,7 @@ Welcome to my Github profile :rocket:
 
 <br>
 <p align="center">
-  <strong><a href="#">Facebook</a></strong> |
+  <strong><a href="https://www.facebook.com/profile.php?id=100066661175327">Facebook</a></strong> |
   <strong><a href="#">Twitter</a></strong> |
   <strong><a href="#">Discord</a></strong> |
   <strong><a href="#">Telegram</a></strong> |
