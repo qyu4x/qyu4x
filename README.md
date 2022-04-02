@@ -1,12 +1,11 @@
-<h2>Hi, I'm Shiyzu! <img src="https://i.pinimg.com/originals/23/8e/19/238e1921462aa271b6b1b0c98539cb4d.gif" height="60" /></h2>
+<h2>Hello, welcome here! <img src="https://i.pinimg.com/originals/23/8e/19/238e1921462aa271b6b1b0c98539cb4d.gif" height="60" /></h2>
 
 <img max-width="800" src="https://github.com/shiyzu/shiyzu/blob/master/assets/gochumoon.jpg"/>
-
-I'm Shiyzu (19 y.o) ! 
+ 
 
 Welcome to my Github profile :rocket:
 
-:page_with_curl: I'm currently learning:
+:page_with_curl: Still in the learning stage
 <br><br>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
