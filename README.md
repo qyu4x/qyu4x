@@ -8,5 +8,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyzu&layout=compact)
 
 <br>
-### 📫 Feel free to contact me anytime
-[<img src="https://img.shields.io/badge/Telegram-%40LoliOverflow-blue">](https://t.me/shiyzu)
