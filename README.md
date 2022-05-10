@@ -8,10 +8,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyzu&layout=compact)
 
 <br>
-<p align="center">
-  <strong><a href="#">Facebook</a></strong> |
-  <strong><a href="#">Twitter</a></strong> |
-  <strong><a href="#">Discord</a></strong> |
-  <strong><a href="#">Telegram</a></strong> |
-  <strong><a href="#">LinkedIn</a></strong> 
-</p>
+### 📫 Feel free to contact me anytime
+[<img src="https://img.shields.io/badge/Telegram-%40LoliOverflow-blue">](https://t.me/shiyzu)
