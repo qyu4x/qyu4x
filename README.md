@@ -3,8 +3,8 @@
 <img max-width="400" src="https://github.com/shiyzu/shiyzu/blob/master/ne.png"/>
  
 
-![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=shiyzu)
+![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qirayuki)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiyzu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qirayuki&layout=compact)
 
 <br>
