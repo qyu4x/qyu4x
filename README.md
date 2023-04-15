@@ -21,12 +21,12 @@ Location: Alpha Canis Majoris.
 Languages: Java, Go.
 Hobbyes: Java.
 Learning: Go.
-FavouriteSong: Connect『コネクト』- ClariS (Mahou Shoujo Madoka★Magica OP)
+FavouriteSong: Connect『コネクト』- ClariS (Mahou Shoujo Madoka★Magica OP).
 FavouriteEquation: Fourier transform. 
-Hobbies: Watching anime, Reading light novels, Coding 
+Hobbies: Watching anime, Reading light novels, Coding.
 while I am listening music.
 My Favourite singers : 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aiba) 
-                      and クラリス (ClariS). 🎤🎶🎼
+                      and クラリス (ClariS). 🎤🎶🎼.
 My Favourite bando: fripSide, RAISE A SUILEN, Roselia
 
 ```
