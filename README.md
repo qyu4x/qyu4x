@@ -4,7 +4,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://i.ibb.co/Zf3np43/shiina-mahiru-render-by-minhchauk1k-dfdkmu0-11zon.png" width="130px"/> 
+<img align="left" src="https://i.ibb.co/Zf3np43/shiina-mahiru-render-by-minhchauk1k-dfdkmu0-11zon.png" width="280px"/> 
 
 ```csharp
 My Profile v2.0.2: 破壊「はかい」
