@@ -21,7 +21,7 @@ Location: Alpha Canis Majoris.
 Languages: Java, Go.
 Hobbyes: Java.
 Learning: Go.
-FavouriteSong: アイドル (Idol)
+FavouriteSong: Connect『コネクト』- ClariS [Mahou Shoujo Madoka★Magica OP]
 FavouriteEquation: Fourier transform. 
 Hobbies: Watching anime, Reading light novels, Coding 
 while I am listening music.
