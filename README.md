@@ -4,7 +4,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://static.wikia.nocookie.net/oshi_no_ko/images/8/82/KanaArimaAnime.png/revision/latest/scale-to-width-down/197?cb=20230219171329" width="270px"/> 
+<img align="left" src="https://static.wikia.nocookie.net/oshi_no_ko/images/8/82/KanaArimaAnime.png/revision/latest/scale-to-width-down/197?cb=20230219171329" width="130px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
