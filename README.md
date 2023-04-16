@@ -4,7 +4,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://i.ibb.co/Zf3np43/shiina-mahiru-render-by-minhchauk1k-dfdkmu0-11zon.png" width="270px"/> 
+<img align="left" src="https://static.wikia.nocookie.net/oshi_no_ko/images/8/82/KanaArimaAnime.png/revision/latest/scale-to-width-down/197?cb=20230219171329" width="270px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
@@ -15,7 +15,7 @@ OS: Windows 10, Manjaro.
 Shell: wsl, zsh 5.8
 Telegram: @shiyzu.
 FavouriteAnime: 青春ラブコメはまちがっている。(My Teen Romantic Comedy SNAFU)
-Loves: 椎名 真昼 (Mahiru Shiina) (❤️ ω ❤️), listening music.
+Loves: 有馬 かな (Arima Kana) (❤️ ω ❤️), listening music.
 Pronouns: He-Him.
 Location: Alpha Canis Majoris.
 Languages: Java, Go.
