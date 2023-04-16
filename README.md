@@ -4,7 +4,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwCo3-9d570EV6IIttXu7K4A" width="160px"/> 
+<img align="left" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwCo3-9d570EV6IIttXu7K4A" width="170px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
