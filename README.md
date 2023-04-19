@@ -20,7 +20,7 @@ Pronouns: He-Him.
 Location: Alpha Canis Majoris.
 Languages: Java, Go.
 Hobbyes: Java.
-Learning: Go.
+Learning: Java.
 FavouriteSong: Connect『コネクト』- ClariS (Mahou Shoujo Madoka★Magica OP).
 FavouriteEquation: Fourier transform. 
 Hobbies: Watching anime, Reading manga and light novels, Coding.
