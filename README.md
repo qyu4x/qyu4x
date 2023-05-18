@@ -28,7 +28,6 @@ while I am listening music.
 My Favourite genres: J-pop, Pop rock, Ghotic metal
 My Favourite singers: 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aiba) and クラリス (ClariS). 🎤🎶🎼.
 My Favourite bando: fripSide, RAISE A SUILEN, and Roselia
-
 ```
 <br>
 <br>
