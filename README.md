@@ -4,7 +4,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwCo3-9d570EV6IIttXu7K4A" width="160px"/> 
+<img align="left" src="https://i.ibb.co/z6g6yfs/Ruka-Profile-Pic-Anime-removebg-preview.png" width="160px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
@@ -15,7 +15,7 @@ OS: Windows 10, Manjaro.
 Shell: wsl, zsh 5.8
 Telegram: @shiyzu.
 FavouriteAnime: 青春ラブコメはまちがっている。(My Teen Romantic Comedy SNAFU)
-Loves: 有馬 かな (Arima Kana) (❤️ ω ❤️), listening music.
+Loves: 有馬 かな (Ruka Sarashina) (❤️ ω ❤️), listening music.
 Pronouns: He-Him.
 Location: Alpha Canis Majoris.
 Languages: Java, Go.
