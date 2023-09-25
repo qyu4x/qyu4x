@@ -19,7 +19,7 @@ Likes: All the cute ones ..especially Ruka
 Loves: 更科瑠夏 (Ruka Sarashina) (❤️ ω ❤️), listening music.
 Pronouns: He-Him.
 Location: Alpha Canis Majoris.
-Languages: Java, Go.
+Languages: Java, PHP, Go.
 Hobbyes: Java.
 Learning: Java, PHP, Go.
 FavouriteSong: Connect『コネクト』- ClariS (Mahou Shoujo Madoka★Magica OP).
