@@ -4,7 +4,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://i.ibb.co/z6g6yfs/Ruka-Profile-Pic-Anime-removebg-preview.png" width="300px"/> 
+<img align="left" src="https://i.ibb.co/z6g6yfs/Ruka-Profile-Pic-Anime-removebg-preview.png" width="250px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
