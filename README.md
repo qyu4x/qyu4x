@@ -15,7 +15,7 @@ OS: Windows 10, Manjaro.
 Shell: wsl, zsh 5.8
 Telegram: @shiyzu.
 FavouriteAnime: 青春ラブコメはまちがっている。(My Teen Romantic Comedy SNAFU)
-Loves: 有馬 かな (Ruka Sarashina) (❤️ ω ❤️), listening music.
+Loves: 更科瑠夏 (Ruka Sarashina) (❤️ ω ❤️), listening music.
 Pronouns: He-Him.
 Location: Alpha Canis Majoris.
 Languages: Java, Go.
