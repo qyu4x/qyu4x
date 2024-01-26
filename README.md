@@ -2,7 +2,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://static.wikia.nocookie.net/kishuku-gakkou-no-juliet/images/8/8e/Juliet_Persia.png" width="180px"/> 
+<img align="left" src="https://static.wikia.nocookie.net/kishuku-gakkou-no-juliet/images/8/8e/Juliet_Persia.png" width="200px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
