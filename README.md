@@ -41,8 +41,17 @@ I'm currently studying software engineering at [Dian Nuswantoro University](http
 
 **You can also email me here:** qq.khoiri@gmail.com
 
-![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qyu4x)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyu4x&layout=compact)
+  <div style="flex: 1; margin-right: 20px;">
+    ![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qyu4x)
+    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qyu4x" alt="Shiyzu GitHub Stats" />
+  </div>
+  <div style="flex: 1;">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyu4x&layout=compact)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyu4x&layout=compact" alt="Top Languages" />
+  </div>
+</div>
+
 
 <br>
