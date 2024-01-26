@@ -29,6 +29,9 @@ My Favourite singers: 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aib
 ```
 <br>
 <br>
+## **💻 Experience**
+<a href="https://github.com/MiyagawaMizu"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+I'm currently studying software engineering at [Dian Nuswantoro University](https://dinus.ac.id/). The fourth year of college has passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ![Shiyzu github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qyu4x)
