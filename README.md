@@ -41,15 +41,16 @@ I'm currently studying software engineering at [Dian Nuswantoro University](http
 
 **You can also email me here:** qq.khoiri@gmail.com
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qyu4x" alt="Shiyzu GitHub Stats" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyu4x&layout=compact" alt="Top Languages" />
-  </div>
-</div>
+<table border="0">
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=qyu4x" alt="Shiyzu GitHub Stats" />
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyu4x&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 
 <br>
