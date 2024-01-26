@@ -13,7 +13,7 @@ OS: Windows 10, Manjaro.
 Shell: wsl, zsh 5.8
 Telegram: @shiyzu.
 FavouriteAnime: 青春ラブコメはまちがっている。(My Teen Romantic Comedy SNAFU)
-Likes: All the cute ones ..especially Ruka
+Likes: All the cute ones ..especially Persia ໒꒰ྀི´ ˘ ` ꒱ྀིა
 Loves: Juliet Persia (ジュリエット・ペルシア, Jurietto Perushia) ⸜(｡˃ ᵕ ˂ )⸝♡.
 Pronouns: He-Him.
 Location: Alpha Canis Majoris.
@@ -25,7 +25,7 @@ FavouriteEquation: Fourier transform.
 Hobbies: Watching anime, Reading manga and light novels, Coding.
 while I am listening music.
 My Favourite genres: J-pop, Pop rock, Ghotic metal
-My Favourite singers: 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aiba), 小倉 唯 (Yui Ogura) and 花澤 香菜 (Kana Hanazawa). 🎤🎶🎼.
+My Favourite singers: 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aiba), 小倉 唯 (Yui Ogura) and 花澤 香菜 (Kana Hanazawa). ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧.
 ```
 <br>
 <br>
