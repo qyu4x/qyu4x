@@ -21,7 +21,7 @@ Location: Alpha Canis Majoris.
 Languages: Java, PHP, Go.
 Hobbyes: Java.
 Learning: Java, PHP, Go.
-FavouriteSong: Connect『コネクト』- ClariS (Mahou Shoujo Madoka★Magica OP).
+FavouriteSong: ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)
 FavouriteEquation: Fourier transform. 
 Hobbies: Watching anime, Reading manga and light novels, Coding.
 while I am listening music.
