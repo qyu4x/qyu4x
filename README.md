@@ -2,7 +2,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://static.wikia.nocookie.net/projectsekai/images/e/e5/L-n_Luka_3rd_Anniversary.png" width="190px"/> 
+<img align="left" src="https://static.wikia.nocookie.net/projectsekai/images/e/e5/L-n_Luka_3rd_Anniversary.png" width="150px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
