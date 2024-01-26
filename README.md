@@ -1,4 +1,4 @@
-![Preview](https://github.com/qyu4x/qyu4x/blob/master/assets/lukamegurine.jpeg)
+![Preview](https://github.com/qyu4x/qyu4x/blob/master/assets/lukameguchan.jpeg)
 
 ```zsh
 > neofetch
