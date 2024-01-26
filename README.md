@@ -2,7 +2,7 @@
 ```zsh
 > neofetch
 ```
-<img align="left" src="https://static.wikia.nocookie.net/kishuku-gakkou-no-juliet/images/8/8e/Juliet_Persia.png" width="190px"/> 
+<img align="left" src="https://static.wikia.nocookie.net/projectsekai/images/e/e5/L-n_Luka_3rd_Anniversary.png" width="190px"/> 
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
@@ -13,8 +13,8 @@ OS: Windows 10, Manjaro.
 Shell: wsl, zsh 5.8
 Telegram: @shiyzu.
 FavouriteAnime: 青春ラブコメはまちがっている。(My Teen Romantic Comedy SNAFU)
-Likes: All the cute ones ..especially Persia ໒꒰ྀི´ ˘ ` ꒱ྀིა
-Loves: Juliet Persia (ジュリエット・ペルシア, Jurietto Perushia) ⸜(｡˃ ᵕ ˂ )⸝♡.
+Likes: All the cute ones ..especially Luka ໒꒰ྀི´ ˘ ` ꒱ྀིა
+Loves: Megurine Luka (巡音ルカ, Megurine Ruka) ⸜(｡˃ ᵕ ˂ )⸝♡.
 Pronouns: He-Him.
 Location: Alpha Canis Majoris.
 Languages: Java, PHP, Go.
@@ -25,7 +25,7 @@ FavouriteEquation: Fourier transform.
 Hobbies: Watching anime, Reading manga and light novels, Coding.
 while I am listening music.
 My Favourite genres: J-pop, Pop rock, Ghotic metal
-My Favourite singers: 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aiba), 小倉 唯 (Yui Ogura) and 花澤 香菜 (Kana Hanazawa). ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧.
+My Favourite singers: 巡音ルカ (Megurine Ruka) 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aiba), 小倉 唯 (Yui Ogura) and 花澤 香菜 (Kana Hanazawa). ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧.
 ```
 <br>
 <br>
