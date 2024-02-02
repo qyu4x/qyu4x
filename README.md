@@ -1,39 +1,9 @@
 ![Preview](https://github.com/qyu4x/qyu4x/blob/master/assets/lukameguchan.jpeg)
 
-```zsh
-> neofetch
-```
-<img align="left" src="https://static.wikia.nocookie.net/projectsekai/images/e/e5/L-n_Luka_3rd_Anniversary.png" width="320px"/> 
-
-```csharp
-My Profile v2.0.5: 破壊「はかい」
--------------------------------
-Username: Qirara.
-WhoamI: Computer Engineer.
-OS: Windows 10, Manjaro.
-Shell: wsl, zsh 5.8
-Telegram: @shiyzu.
-FavouriteAnime: 青春ラブコメはまちがっている。(My Teen Romantic Comedy SNAFU)
-Likes: All the cute ones ..especially Luka ໒꒰ྀི´ ˘ ` ꒱ྀིა
-Loves: Megurine Luka (巡音ルカ, Megurine Ruka) ⸜(｡˃ ᵕ ˂ )⸝♡.
-Pronouns: He-Him.
-Location: Alpha Canis Majoris.
-Languages: Java, PHP, Go.
-Hobbyes: Java.
-Learning: Java, PHP, Go.
-FavouriteSong: ルカルカ★ナイトフィーバー (Luka Luka★Night Fever)
-FavouriteEquation: Fourier transform. 
-Hobbies: Watching anime, Reading manga and light novels, Coding.
-while I am listening music.
-My Favourite genres: J-pop, Pop rock, Ghotic metal
-My Favourite singers: 巡音ルカ (Megurine Ruka) 南條 愛乃 (Yoshino Nanjō), 相羽 あいな (Aina Aiba), 小倉 唯 (Yui Ogura) and 花澤 香菜 (Kana Hanazawa). ✩♬ ₊˚.🎧⋆☾⋆⁺₊✧.
-```
-<br>
-<br>
 
 ## **˚˖𓍢ִִ໋🌊✧˚. Experience**
 <a href="https://github.com/qyu4x"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying software engineering at [Dian Nuswantoro University](https://dinus.ac.id/). The fourth year of college has passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently studying software engineering at [Dian Nuswantoro University](https://dinus.ac.id/). The fourth year of college has passed, and I am still learning. 
 <br>
 <br>
 ## **༘🫧💭⋆˙ Contact**
