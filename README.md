@@ -1,6 +1,3 @@
-![Preview](https://github.com/qyu4x/qyu4x/blob/master/assets/lukameguchan.jpeg)
-
-
 ## **˚˖𓍢ִִ໋🌊✧˚. Experience**
 <a href="https://github.com/qyu4x"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
 I'm currently studying software engineering at [Dian Nuswantoro University](https://dinus.ac.id/). The fourth year of college has passed, and I am still learning. 
