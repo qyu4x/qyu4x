@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://static.wikia.nocookie.net/otonari-no-tenshi/images/9/92/Mahiru_Shiina.png" width="150px"/>
+<img align="left" src="https://static.wikia.nocookie.net/otonari-no-tenshi/images/9/92/Mahiru_Shiina.png" width="170px"/>
 
 ```csharp
 My Profile v2.0.5: 破壊「はかい」
