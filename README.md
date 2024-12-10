@@ -40,7 +40,7 @@ I don't have anything special, but I hope to be able to change that in the futur
 
 ## **༘🫧💭⋆˙ Contact**
 
-<a href="https://github.com/qyu4x"><img align="left" width="100" src="https://i.pinimg.com/originals/da/d7/35/dad7352ef120d5111759c872593c40cf.gif"></a>
+<a href="https://github.com/qyu4x"><img align="left" width="100" src="https://steamuserimages-a.akamaihd.net/ugc/789665850049263428/9E769CB5DEC0BF7CA60DF260B2D4E4033B32CADD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"></a>
 **Please Contact me on Discord for a quick response:** qirara
 
 **You can also email me here:** qq.khoiri@gmail.com
