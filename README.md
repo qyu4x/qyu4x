@@ -19,7 +19,7 @@ Likes: All the cute ones ..especially Mahiru Shiina ໒꒰ྀི´ ˘ ` ꒱ྀ�
 Loves: Mahiru Shiina (椎名真昼 Shiina Mahiru) ⸜(｡˃ ᵕ ˂ )⸝♡.
 Pronouns: He-Him.
 Location: Miaw.
-Languages: Java, PHP, Go.
+Languages: Java, JavaScript, PHP, Go.
 Hobbyes: Java.
 Learning: Java, PHP, Go.
 FavouriteSong: 君色シグナル 加藤恵(cv:安野希世乃)
